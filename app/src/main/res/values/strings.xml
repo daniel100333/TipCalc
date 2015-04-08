@@ -9,7 +9,7 @@
     <string name="tip_text_view">Tip</string>
     <string name="tip_edit_text">.15</string>
 
-    <string name="final_text_view">Final Bill</string>
+    <string name="final_bill_text_view">Final Bill</string>
     <string name="final_bill_edit_text">0.0</string>
 
     <string name="change_tip_text_view">Change Tip</string>
@@ -18,7 +18,7 @@
 
     <string name="intro_friendly_text_view">Friendly</string>
     <string name="intro_specials_text_view">Specials</string>
-    <string name="intro_opinion_text__view">Opinion</string>
+    <string name="intro_opinion_text_view">Opinion</string>
 
     <string name="available_text_view">Availability</string>
     <string name="available_bad_radiobutton">Bad</string>
